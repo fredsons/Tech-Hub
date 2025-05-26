@@ -1,0 +1,17 @@
+{
+    "data": [
+      {
+        "title": "Sistema de Base de Conhecimento",
+        "description": "Sistema web com autenticação, gestão de documentos PDF, permissões por usuário, usando Supabase.",
+        "tech_stack": ["HTML", "TailwindCSS", "JavaScript", "Supabase"],
+        "link": "https://innova-tech-kappa.vercel.app/"
+      },
+      {
+        "title": "Site Pessoal Portfólio",
+        "description": "Site com seções Sobre, Projetos, Serviços, Blog e Contato, com visual moderno e animações suaves.",
+        "tech_stack": ["React", "TailwindCSS", "Framer Motion"],
+        "link": "https://pixel-craft-pi.vercel.app/"
+      }
+    ]
+  }
+  
